@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack & Skills
 🔹 **Languages**: Python, React 
-🔹 **Frameworks**: React, Node.js, Django  
+🔹 **Frameworks**: React,FastAPI 
 🔹 **Tools**: Git,VS Code
 🔹 **Databases**: SQL, MongoDB  
 🔹 **Soft Skills**: Problem-Solving, Team Collaboration, Communication
